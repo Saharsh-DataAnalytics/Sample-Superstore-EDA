@@ -89,12 +89,57 @@ If you found this project useful, feel free to ⭐ this repository.
 
 
 
+## 💡 Business Recommendations
+
+- Review the pricing and discount strategy for the Tables sub-category.
+- Analyze the cost structure of Furniture products to improve profit margins.
+- Evaluate discount policies to balance sales growth and profitability.
+- Investigate the causes of low profitability in the East region.
+- Develop targeted strategies for the Home Office customer segment.
+- Review Same Day shipping costs and pricing to improve profitability.
 
 
 
+## 📊 Project Visualizations
+
+### Category Performance
+
+![Category Performance](Images/Sales_by_Category.png)
+
+![Category Performance](Images/Profit_by_Category.png)
+
+### Furniture Sub-category Analysis
+
+![Furniture](Images/Sales_by_SubCategory.png)
+
+![Furniture](Images/Profit_by_SubCategory.png)
+
+### Discount Impact Analysis
+
+![Discount](Images/Discount_impact.png)
+
+![Discount](Images/Discount_Profit_scatter'.png)
 
 
+## 🚀 Future Improvements
 
+- Build an interactive Power BI dashboard.
+- Perform predictive analysis using Machine Learning.
+- Analyze customer purchasing trends over time.
+- Create automated business reports.
+
+
+## ⚙️ Requirements
+
+Install the required Python libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+## ⭐ Show Your Support
+
+If you found this project helpful, consider giving this repository a ⭐.
 
 
 
