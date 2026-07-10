@@ -85,8 +85,11 @@ Sample-Superstore-EDA/
 
 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 
-If you found this project useful, feel free to ⭐ this repository.
+📧 Email: your-email@example.com
 
+🔗 LinkedIn: /https://www.linkedin.com/in/saharsh-sarde-1706782a8
+
+🐙 GitHub: https://github.com/Saharsh-DataAnalytics
 
 
 ## 💡 Business Recommendations
