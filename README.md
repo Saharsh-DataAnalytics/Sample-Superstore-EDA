@@ -104,7 +104,7 @@ If you found this project useful, feel free to ⭐ this repository.
 
 ### Category Performance
 
-![Category Performance](Images/Sales_by_Category.png)
+![Category Performance](Images/Sales_by_category.png)
 
 ![Category Performance](Images/Profit_by_Category.png)
 
